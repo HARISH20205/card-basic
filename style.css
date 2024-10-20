@@ -1,0 +1,72 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+
+.header-child-div{
+    background-color: whitesmoke;
+    border-radius: 7px;
+    display: flex;
+    padding: 10px;
+    border-radius: 30px;
+    gap: 10px;
+}
+
+.header-div{
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+}
+
+.header-button-1{
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: rgb(29, 195, 129);
+    color: white;
+    border: 2px solid rgb(29, 195, 129);
+}
+
+.header-button-2{
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: white;
+    color:rgb(29, 195, 129);
+    border: 2px solid white;
+}
+
+
+.choice-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 70px;
+}
+
+.body-form{
+    background-color:rgb(254, 254, 254);
+    border-radius: 15px;
+    background-color: whitesmoke;
+    text-align: center;
+    border: 7px  white;
+    padding: 0px 35px 35px 35px;
+}
+
+
+.signup-button{
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: rgb(29, 195, 129);
+    color: white;
+    border: 2px solid rgb(29, 195, 129);
+    padding: 10px 70px;
+}
+.price-h1{
+
+}
+
+.price-span{
+    font-size: 15px;
+    color: grey;
+}
+
